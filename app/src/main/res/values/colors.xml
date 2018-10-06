@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="firstCard">#cdd9a2</color>
+    <color name="secondCard">#e36b51</color>
+    <color name="thirdCard">#976a3d</color>
+    <color name="fourthCard">#fec22d</color>
+
+    <!--<color name="horizontalBar">#afece6</color>-->
+    <color name="horizontalBar">#ffffff</color>
+
+    <color name="backgroundColor">#0bc7b4</color>
+</resources>
